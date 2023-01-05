@@ -21,11 +21,14 @@ We used Visual studio code to run the file.
 
 # Connection
 Here we can se the connection 
-![Circuit connection](img/img1.jpg "nrf52 connection")
+
+<img src="img/img1.jpg" lt="nrf52 connection" width="200" height="400">
 Figure 1. Circuit connection
-![Color picking](img/img2.jpg "Color picking from bluefruit app")
+
+<img src="img/img2.jpg" lt="Color picking from bluefruit app" width="200" height="400">
 Figure 2. Color picking from bluefruit app
-![Color changing](img/img3.jpg "Enlightened with color")
+
+<img src="img/img3.jpg" lt="Enlightened with color" width="200" height="400">
 Figure 3. Enlightened with color
 
 # References
